@@ -1,5 +1,5 @@
 ==Proximal==
-La 2x2, pentru aflarea lui x_int si a lui y_int am folosit "functia" a:b:c, ce
+La 2x2, pentru aflarea lui x_int si a lui y_int am folosit "functia" a : b : c, ce
 returneaza numerele de la a la c cu distanta dintre ele = b(echidistante de
 lungime b). Apoi se parcurgea fiecare pixel si se incadra intr-unul dintre
 sferturile date in imagine. Pt resize, s_x, respectiv s_y au luat valoarile date,
